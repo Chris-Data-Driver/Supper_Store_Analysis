@@ -17,7 +17,7 @@ The data for the project was provided by **Data Science Nigeria**
 ![](data_science.png)
 ## Analysis:
 This is a single-page analysis.
-![](Super Store Analysis.pdf)
+![](Super_Store_Analysis.pdf)
 
 ## Key Insights from the Analysis 
 
