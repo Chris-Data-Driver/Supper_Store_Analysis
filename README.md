@@ -1,5 +1,5 @@
 # Supper_Store_Analysis
-
+![](store.jfif)
 ## Introduction: 
 This is a Supper Store Analysis the store operates in **four Regions** with **four Regional managers** the analysis spans from **January 2015 to June 2015**. The analysis shows that the stores made **1.92m sales,** making **224.08k profit**, having **East Region** as the Region with the **highest sales by 30.77%** with **April** having the highest sales over time by **20.26%.**
 
@@ -14,7 +14,7 @@ The skills demonstrated in this project include the excellent use of PowerBI to 
 
 ## Data Sourcing:
 The data for the project was provided by **Data Science Nigeria**
-
+![](data_science.png)
 ## Analysis:
 This is a single-page analysis.
 
